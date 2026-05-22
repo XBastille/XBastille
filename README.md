@@ -1,1 +1,1 @@
-AI Researcher in Computer Vision and Generative Models , Undergraduate/Summer Student at [CERN](https://github.com/CERN) , IFIC and CISC, GSoC Contributor at [CERN](https://github.com/CERN)-[HSF](https://github.com/HSF)
+AI Researcher in Computer Vision and Generative Models , Undergraduate/Summer Student at [CERN](https://github.com/CERN) , IFIC and CISC, Google Summer of Code 2026 Contributor at [CERN](https://github.com/CERN)-[HSF](https://github.com/HSF)
